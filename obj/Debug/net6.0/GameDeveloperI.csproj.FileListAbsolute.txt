@@ -1,0 +1,15 @@
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.exe
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.deps.json
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.runtimeconfig.json
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.pdb
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.csproj.AssemblyReference.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.AssemblyInfoInputs.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.AssemblyInfo.cs
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.csproj.CoreCompileInputs.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\obj\Debug\net6.0\refint\GameDeveloperI.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.pdb
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.genruntimeconfig.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\GameDeveloperI\obj\Debug\net6.0\ref\GameDeveloperI.dll
